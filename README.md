@@ -7,11 +7,11 @@
 
 ## Main Skills:
 
-[![My Main Skills](https://skills.thijs.gg/icons?i=swift,figma)](https://skills.thijs.gg)
+![My Main Skills](https://skills.thijs.gg/icons?i=swift,figma)
 
 ## Other Skills:
 
-[![My Other Skills](https://skills.thijs.gg/icons?i=html,css,c,java)](https://skills.thijs.gg)
+![My Other Skills](https://skills.thijs.gg/icons?i=html,css,c,java)
 
 ## Contact Me:
 
