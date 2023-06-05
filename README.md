@@ -1,14 +1,33 @@
+## KaayZenn
+
 - 👋 Hi, I’m KaayZenn
 - 💻 I'm an iOS developer alongside my studies.
 - 🌱 I’m currently learning UI / UX Design and SwiftUI Animations.
 - 💞️ I’m looking to collaborate on mobile application projects.
 - 📧 You can reach me at the following address : kaayzenn7@gmail.com
 
-[![My Skills](https://skills.thijs.gg/icons?i=swift,figma)](https://skills.thijs.gg)
+## Main Skills:
+
+[![My Main Skills](https://skills.thijs.gg/icons?i=swift,figma)](https://skills.thijs.gg)
+
+## Other Skills:
+
+[![My Other Skills](https://skills.thijs.gg/icons?i=html,css,c,java)](https://skills.thijs.gg)
+
+## Contact Me:
+
+![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <!-- 
-Icons :
+Icons My Skills:
 https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/
+-->
+
+<!--
+Icons Contact:
+https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
 
 <!---
