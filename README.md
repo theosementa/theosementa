@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaayZenn
+- 👋 Hi, I’m KaayZenn
 - 👀 I’m an iOS Developer
 - 🌱 I’m currently learning UI / UX Design
 - 💞️ I’m looking to collaborate on mobile application projects
