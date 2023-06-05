@@ -4,7 +4,6 @@
 - 💻 I'm an iOS developer alongside my studies.
 - 🌱 I’m currently learning UI / UX Design and SwiftUI Animations.
 - 💞️ I’m looking to collaborate on mobile application projects.
-- 📧 You can reach me at the following address : kaayzenn7@gmail.com
 
 ## Main Skills:
 
@@ -16,9 +15,9 @@
 
 ## Contact Me:
 
-![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19014464/kaayzenn)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kaayzenn_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaayzenn7@gmail.com?subject=[GitHub])
 
 <!-- 
 Icons My Skills:
