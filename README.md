@@ -1,7 +1,7 @@
 - 👋 Hi, I’m KaayZenn
-- 👀 I’m an iOS Developer
-- 🌱 I’m currently learning UI / UX Design
-- 💞️ I’m looking to collaborate on mobile application projects
+- 👀 I'm an iOS developer alongside my studies.
+- 🌱 I’m currently learning UI / UX Design and SwiftUI Animations.
+- 💞️ I’m looking to collaborate on mobile application projects.
 - 📫 You can reach me at the following address : kaayzenn7@gmail.com
 
 <!---
