@@ -14,6 +14,14 @@ For me, creating an application is like playing a video game, I think it's even 
 - ✨ SwiftUI Animations
 - 📱 UI/UX Design
 
+## 🏗️ See my projects [here](https://apple.co/3MRn5m6)
+- 🏎️ DreamCar
+- ✅ Magic Lists
+- 🔑 TheKey
+- ✅ Taskko
+- 🍽️ Perfect Plate (soon)
+- 📊 Expense Tracker (soon)
+
 ## Contact Me:
 
 [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="50" />](https://www.linkedin.com/in/theosementa)
