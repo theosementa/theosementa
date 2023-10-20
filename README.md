@@ -7,7 +7,7 @@ For me, creating an application is like playing a video game, I think it's even 
 ## 💻 I'm currently working on
 - 🔑 One of my old projects "TheKey"
 - 🍽️ A new project called "Perfect Plate"
-- 📊 Another new project called "Expense Tracker"
+- 📊 Another new project called "CashFlow Tracker"
 
 ## 🌱 I'm currently learning
 - ⚙️ API in SwiftUI
@@ -20,7 +20,7 @@ For me, creating an application is like playing a video game, I think it's even 
 - 🔑 TheKey
 - ✅ Taskko
 - 🍽️ Perfect Plate (soon)
-- 📊 Expense Tracker (soon)
+- 📊 CashFlow Tracker
 
 ## Contact Me:
 
