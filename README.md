@@ -1,12 +1,15 @@
 ![KaayZenn](https://github.com/KaayZenn/KaayZenn/assets/135596297/9fd80e56-4c0a-4424-87f6-3b5293c26118)
 
- <h2 align="center"> Hi there, I'm Théo 👋 <br><br> <p align="center"> I'm an iOS Developer 💻, a full stack development student 👨‍🎓 and soon Android Developer 🤖</p> </h2> 
+ <h2 align="center"> Hi there, I'm Théo 👋 <br><br> <p align="center"> I'm an iOS Developer 💻 and a full stack development student 👨‍🎓 </p> </h2> 
  
 For me, creating an application is like playing a video game, I think it's even more entertaining.  I've done all my apps on my own, and I've gone through all the phases of a project, from the idea to the deployment on the AppStore, including design, feature research, development and so on.
+
+Find an issue. Create an app
 
 ## 💻 I'm currently working on
 - 📊 My bigger project called "CashFlow Tracker"
 - 📚 A project at school named "Ocerall"
+- 🔨 A tool to reduce development time, TheoKit is a swift lib
 
 ## 🌱 I'm currently learning
 - ✨ SwiftUI Animations
@@ -19,7 +22,6 @@ For me, creating an application is like playing a video game, I think it's even 
 - ✅ Magic Lists (not on AppStore)
 - 🔑 TheKey (not on AppStore)
 - ✅ Taskko
-- 🍽️ Perfect Plate (soon)
 
 ## Contact Me:
 
