@@ -4,35 +4,29 @@
  
 For me, creating an application is like playing a video game, I think it's even more entertaining.  I've done all my apps on my own, and I've gone through all the phases of a project, from the idea to the deployment on the AppStore, including design, feature research, development and so on.
 
-Find an issue. Create an app 🚀
-
-## 💻 I'm currently working on
-- 📊 My bigger project called "CashFlow Tracker"
-- 📚 A project at school named "Ocerall"
-- 🔨 A tool to reduce development time, TheoKit is a swift lib
-
-## 🌱 I'm currently learning
-- ✨ SwiftUI Animations
-- 💧 Vapor to create a web service in Swift
-- 🤖 Kotlin and Jetpack Compose
 
 ## 🏗️ See my projects [here](https://apple.co/3MRn5m6)
-- 🏎️ DreamCar
-- 📊 CashFlow Tracker
-- 🗓️ Events Reminder (soon)
-- ✅ Magic Lists (not on AppStore)
-- 🔑 TheKey (not on AppStore)
-- ✅ Taskko (soon to be removed from the AppStore)
+- CashFlow
+- Split
+- DreamCar
 
-## Contact Me:
+## Connect with me:
 
 [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="50" />](https://www.linkedin.com/in/theosementa)
 [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" width="50" />](https://x.com/theosementa)
 [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="50" />](https://stackoverflow.com/users/19014464/kaayzenn)
 
+<!--
+## Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theosementa&hide=stars,prs,issues,contribs&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theosementa&layout=compact)
+-->
+
 <!-- 
 Icons My Skills:
 https://reactjsexample.com/skill-icons-beautiful-skills-icons-for-your-github-readme/
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" width=50 />
 -->
 
 <!--
