@@ -19,18 +19,19 @@
 
 <br> 
 
-## Connect with me:
+## 👤 Connect with me
 
 [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="50" />](https://www.linkedin.com/in/theosementa)
 [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" width="50" />](https://x.com/theosementa)
 [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="50" />](https://stackoverflow.com/users/19014464/kaayzenn)
 
-<!--
-## Stats:
+<br> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theosementa&hide=stars,prs,issues,contribs&hide_rank=true)
+## 📈 Statistics
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theosementa&layout=compact)
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theosementa&hide=stars,prs,issues,contribs&hide_rank=true)
+
 
 <!-- 
 Icons My Skills:
