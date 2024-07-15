@@ -14,6 +14,7 @@
 
 ## 🌍 Open source projects
 - [Cyclo 🚲](https://github.com/theosementa/Cyclo)
+- [EcoTime](https://github.com/theosementa/EcoTime)
 - Barrel ⛽️ (soon)
 
 <br> 
