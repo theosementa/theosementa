@@ -1,11 +1,7 @@
 ![theosementa](https://github.com/user-attachments/assets/b3aedfa0-29bb-4bac-a768-a08fb729a32a)
 
- <h2 align="center"> Hi there, I'm Théo 👋 
-  <br><br> 
-  <p align="center"> I'm an iOS Developer and a full stack development student 👨‍🎓 </p> 
- </h2> 
- 
-For me, creating an application is like playing a video game, I think it's even more entertaining.  I've done all my apps on my own, and I've gone through all the phases of a project, from the idea to the deployment on the AppStore, including design, feature research, development and so on.
+ <h3 align="center">Hey ! I'm Théo 👋</h3> 
+ <h3 align="center">iOS Developer and a full stack development student 👨‍🎓</h3> 
 
 <br> 
 
