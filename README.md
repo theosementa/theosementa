@@ -1,14 +1,21 @@
 ![KaayZenn](https://github.com/KaayZenn/KaayZenn/assets/135596297/9fd80e56-4c0a-4424-87f6-3b5293c26118)
 
- <h2 align="center"> Hi there, I'm Théo 👋 <br><br> <p align="center"> I'm an iOS Developer and a full stack development student 👨‍🎓 </p> </h2> 
+ <h2 align="center"> Hi there, I'm Théo 👋 
+  <br><br> 
+  <p align="center"> I'm an iOS Developer and a full stack development student 👨‍🎓 </p> 
+  <br><br> 
+  [bento.me](https://bento.me/theosementa)
+ </h2> 
  
 For me, creating an application is like playing a video game, I think it's even more entertaining.  I've done all my apps on my own, and I've gone through all the phases of a project, from the idea to the deployment on the AppStore, including design, feature research, development and so on.
 
 
 ## 🏗️ See my projects [here](https://apple.co/3MRn5m6)
-- CashFlow
-- Split
-- DreamCar
+- [CashFlow](https://apps.apple.com/gb/app/cashflow-expense-tracker/id6450913423?platform=iphone)
+- [Split](https://apps.apple.com/gb/app/split-sharing-expenses/id6504157641)
+
+## 🌍 Open source projects
+- [Cyclo](https://github.com/theosementa/Cyclo)
 
 ## Connect with me:
 
