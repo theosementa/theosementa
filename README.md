@@ -30,8 +30,6 @@
 ## 📈 Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theosementa&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theosementa&hide=stars,prs,issues,contribs&hide_rank=true)
-
 
 <!-- 
 Icons My Skills:
