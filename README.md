@@ -12,10 +12,16 @@
 
 <br> 
 
-## 🌍 Open source projects
+## 🌍 Open source projects (iOS)
 - [Cyclo 🚲](https://github.com/theosementa/Cyclo)
 - [EcoTime ⏳](https://github.com/theosementa/EcoTime)
-- Barrel ⛽️ (soon)
+- [Barrel ⛽️](https://github.com/theosementa/Barrel)
+- [EventsReminder 📆](https://github.com/theosementa/EventsReminder)
+
+<br> 
+
+## 🌍 Open source projects (Vapor)
+- [Barrel API ⛽️](https://github.com/theosementa/BarrelAPI)
 
 <br> 
 
