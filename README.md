@@ -17,6 +17,7 @@
 - [EcoTime ⏳](https://github.com/theosementa/EcoTime)
 - [Barrel ⛽️](https://github.com/theosementa/Barrel)
 - [EventsReminder 📆](https://github.com/theosementa/EventsReminder)
+- [Tyradex 🦕](https://github.com/theosementa/Tyradex)
 
 <br> 
 
