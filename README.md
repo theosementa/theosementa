@@ -25,6 +25,11 @@
 
 <br> 
 
+## 🌍 Open source projects (Framework)
+- [TyradexKit 🦕](https://github.com/theosementa/TyradexKit)
+
+<br> 
+
 ## 👤 Connect with me
 
 [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="50" />](https://www.linkedin.com/in/theosementa)
