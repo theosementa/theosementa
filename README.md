@@ -42,6 +42,9 @@
 ## 📈 Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theosementa&layout=compact)
+<br>
+<p>WakaTime begins on 20 December 2024</p>
+
 [![Theo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theosementa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
