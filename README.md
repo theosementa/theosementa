@@ -45,7 +45,7 @@
 <br>
 <p>WakaTime begins on 20 December 2024</p>
 
-[![Theo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theosementa)](https://github.com/anuraghazra/github-readme-stats)
+[![Theo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theosementa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 Icons My Skills:
