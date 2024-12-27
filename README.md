@@ -43,7 +43,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theosementa&layout=compact)
 <br>
-<p>WakaTime begins on 20 December 2024</p>
+<p>WakaTime begins on 20 December 2024 (this is on my free time)</p>
 
 [![Theo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theosementa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
