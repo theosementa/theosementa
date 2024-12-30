@@ -1,4 +1,4 @@
-![theosementa](https://github.com/user-attachments/assets/b3aedfa0-29bb-4bac-a768-a08fb729a32a)
+![TheoBanner](https://github.com/user-attachments/assets/43c149c4-6363-4205-a5fd-bb14b9a81052)
 
  <h3 align="center">Hey ! I'm Théo 👋</h3> 
  <h3 align="center">iOS Developer and a full stack development student 👨‍🎓</h3> 
