@@ -2,6 +2,11 @@
 
  <h3 align="center">Hey ! I'm Théo 👋</h3> 
  <h3 align="center">iOS Developer and a full stack development student 👨‍🎓</h3> 
+ 
+<div align="center">
+ 
+ [![wakatime](https://wakatime.com/badge/user/6ba51c95-d502-4327-8b57-b437aa8668bb.svg)](https://wakatime.com/@6ba51c95-d502-4327-8b57-b437aa8668bb)
+</div>
 
 <br> 
 
@@ -42,6 +47,10 @@
 ## 📈 Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theosementa&layout=compact)
+<br>
+<p>WakaTime begins on 20 December 2024 (this is on my free time)</p>
+
+[![Theo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theosementa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 Icons My Skills:
