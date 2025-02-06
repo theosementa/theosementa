@@ -1,9 +1,9 @@
-![TheoBanner](https://github.com/user-attachments/assets/43c149c4-6363-4205-a5fd-bb14b9a81052)
+![TheoBanner](https://github.com/user-attachments/assets/222f2869-3dda-4e2c-b904-f397e84bb01d)
 
- <h3 align="center">Hey ! I'm Théo 👋</h3> 
- <h3 align="center">iOS Developer and a full stack development student 👨‍🎓</h3> 
- 
-<div align="center">
+
+# Théo Sementa
+
+<div>
  
  [![wakatime](https://wakatime.com/badge/user/6ba51c95-d502-4327-8b57-b437aa8668bb.svg)](https://wakatime.com/@6ba51c95-d502-4327-8b57-b437aa8668bb)
 </div>
