@@ -17,21 +17,15 @@
 
 <br> 
 
-## 🌍 Open source projects (iOS)
+## 🌍 Open source projects
+
+### iOS
 - [Cyclo 🚲](https://github.com/theosementa/Cyclo)
 - [EcoTime ⏳](https://github.com/theosementa/EcoTime)
-- [Barrel ⛽️](https://github.com/theosementa/Barrel)
 - [EventsReminder 📆](https://github.com/theosementa/EventsReminder)
 - [Tyradex 🦕](https://github.com/theosementa/Tyradex)
 
-<br> 
-
-## 🌍 Open source projects (Vapor)
-- [Barrel API ⛽️](https://github.com/theosementa/BarrelAPI)
-
-<br> 
-
-## 🌍 Open source projects (Framework)
+### Framework
 - [TyradexKit 🦕](https://github.com/theosementa/TyradexKit)
 
 <br> 
@@ -48,9 +42,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theosementa&layout=compact)
 <br>
-<p>WakaTime begins on 20 December 2024 (this is on my free time)</p>
 
 [![Theo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theosementa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>WakaTime begins on 20 December 2024 (this is on my free time)</p>
 
 <!-- 
 Icons My Skills:
