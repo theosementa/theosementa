@@ -1,4 +1,4 @@
-![TheoBanner](https://github.com/user-attachments/assets/222f2869-3dda-4e2c-b904-f397e84bb01d)
+![Github TheoBanner](https://github.com/user-attachments/assets/8f157d34-74cb-42a1-8db8-94ed6a89b6b2)
 
 
 # Théo Sementa
@@ -10,14 +10,25 @@
 
 <br>
 
-## 🏗️ See my projects [here](https://apple.co/3MRn5m6)
-- [CashFlow 💰](https://apps.apple.com/gb/app/cashflow-expense-tracker/id6450913423?platform=iphone)
-- [Split 💰](https://apps.apple.com/gb/app/split-sharing-expenses/id6504157641)
-- [DreamCar 🏎️](https://apps.apple.com/gb/app/dreamcar/id1608409498?platform=iphone)
+## 🏗️ Personal Projects
+
+<div>
+  <a href="">
+    <img src="https://github.com/user-attachments/assets/b08ef286-63c6-4477-8562-989f2db8b9c9" width="32%" />
+  </a>
+ &nbsp;&nbsp;
+  <a href="https://apps.apple.com/gb/app/cashflow-expense-tracker/id6450913423?platform=iphone">
+    <img src="https://github.com/user-attachments/assets/f0629b8a-68fa-4c0d-a678-592eba14b8d5" width="32%"/>
+  </a>
+ &nbsp;&nbsp;
+  <a href="https://apps.apple.com/gb/app/split-sharing-expenses/id6504157641">
+    <img src="https://github.com/user-attachments/assets/a2b33788-1b2a-4b5b-bef6-7952964d9cde" width="32%"/>
+  </a>
+</div>
 
 <br> 
 
-## 🌍 Open source projects
+## 🌍 Open-Source Projects
 
 ### iOS
 - [Cyclo 🚲](https://github.com/theosementa/Cyclo)
