@@ -13,7 +13,7 @@
 ## 🏗️ Personal Projects
 
 <div>
-  <a href="">
+  <a href="https://apps.apple.com/us/app/evently-event-organizer/id6741711828?platform=iphone">
     <img src="https://github.com/user-attachments/assets/b08ef286-63c6-4477-8562-989f2db8b9c9" width="32%" />
   </a>
  &nbsp;&nbsp;
