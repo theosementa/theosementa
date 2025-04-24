@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://apps.apple.com/us/app/evently-event-organizer/id6741711828?platform=iphone">
-    <img src="https://github.com/user-attachments/assets/b08ef286-63c6-4477-8562-989f2db8b9c9" width="32%" />
+    <img src="https://github.com/user-attachments/assets/d29ee8df-823d-4c31-aa62-1409e2438f31" width="32%" />
   </a>
  &nbsp;&nbsp;
   <a href="https://apps.apple.com/gb/app/cashflow-expense-tracker/id6450913423?platform=iphone">
