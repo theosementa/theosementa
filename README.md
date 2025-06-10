@@ -1,6 +1,6 @@
 ![Github TheoBanner](https://github.com/user-attachments/assets/8f157d34-74cb-42a1-8db8-94ed6a89b6b2)
 
-
+<!--
 # Théo Sementa
 
 <div>
@@ -9,6 +9,7 @@
 </div>
 
 <br>
+-->
 
 ## 🏗️ Personal Projects
 
@@ -59,6 +60,7 @@
 
 <br> 
 
+<!--
 ## 📈 Statistics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theosementa&layout=compact)
@@ -66,3 +68,4 @@
 
 [![Theo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theosementa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p>WakaTime begins on 20 December 2024 (this is on my free time)</p>
+-->
