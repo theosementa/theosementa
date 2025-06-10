@@ -13,16 +13,16 @@
 ## 🏗️ Personal Projects
 
 <div>
-  <a href="https://apps.apple.com/us/app/evently-event-organizer/id6741711828?platform=iphone">
-    <img src="https://github.com/user-attachments/assets/d29ee8df-823d-4c31-aa62-1409e2438f31" width="32%" />
+ <a href="https://apps.apple.com/gb/app/split-sharing-expenses/id6504157641">
+    <img src="https://github.com/user-attachments/assets/a2b33788-1b2a-4b5b-bef6-7952964d9cde" width="32%"/>
   </a>
  &nbsp;&nbsp;
   <a href="https://apps.apple.com/gb/app/cashflow-expense-tracker/id6450913423?platform=iphone">
     <img src="https://github.com/user-attachments/assets/f0629b8a-68fa-4c0d-a678-592eba14b8d5" width="32%"/>
   </a>
  &nbsp;&nbsp;
-  <a href="https://apps.apple.com/gb/app/split-sharing-expenses/id6504157641">
-    <img src="https://github.com/user-attachments/assets/a2b33788-1b2a-4b5b-bef6-7952964d9cde" width="32%"/>
+  <a href="https://apps.apple.com/us/app/evently-event-organizer/id6741711828?platform=iphone">
+    <img src="https://github.com/user-attachments/assets/d29ee8df-823d-4c31-aa62-1409e2438f31" width="32%" />
   </a>
 </div>
 
