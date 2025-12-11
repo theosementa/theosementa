@@ -38,7 +38,24 @@
 - [Tyradex 🦕](https://github.com/theosementa/Tyradex)
 
 ### Framework
-- [TyradexKit 🦕](https://github.com/theosementa/TyradexKit)
+
+#### NavigationKit [[link]](https://github.com/theosementa/NavigationKit)
+- A Swift package that centralizes navigation in SwiftUI applications using a flexible and type-safe router
+
+#### NetworkKit [[link]](https://github.com/theosementa/NetworkKit)
+- (not public yet) A Swift package providing a clean and modern networking layer with async/await support
+
+#### KeychainKit [[link]](https://github.com/theosementa/KeychainKit)
+- A Swift package that simplifies secure data storage using the Keychain
+
+#### NotificationKit [[link]](https://github.com/theosementa/NotificationKit)
+- (not public yet) A Swift package that simplifies scheduling and managing local notifications
+
+#### AlertKit [[link]](https://github.com/theosementa/AlertKit)
+- (not public yet) A Swift package that centralizes and simplifies presenting alerts in SwiftUI
+
+#### TyradexKit [[link]](https://github.com/theosementa/TyradexKit)
+- (not maintained - old) A Swift package to use Tyradex API
 
 <br> 
 
