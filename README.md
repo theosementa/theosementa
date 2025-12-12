@@ -31,7 +31,7 @@
 - A Swift package that centralizes navigation in SwiftUI applications using a flexible and type-safe router
 
 #### NetworkKit [[link]](https://github.com/theosementa/NetworkKit)
-- (not public yet) A Swift package providing a clean and modern networking layer with async/await support
+- A Swift package providing a clean and modern networking layer with async/await support
 
 #### KeychainKit [[link]](https://github.com/theosementa/KeychainKit)
 - A Swift package that simplifies secure data storage using the Keychain
