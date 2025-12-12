@@ -1,16 +1,5 @@
 ![Github TheoBanner](https://github.com/user-attachments/assets/8f157d34-74cb-42a1-8db8-94ed6a89b6b2)
 
-<!--
-# Théo Sementa
-
-<div>
- 
- [![wakatime](https://wakatime.com/badge/user/6ba51c95-d502-4327-8b57-b437aa8668bb.svg)](https://wakatime.com/@6ba51c95-d502-4327-8b57-b437aa8668bb)
-</div>
-
-<br>
--->
-
 ## 🏗️ Personal Projects
 
 <div>
@@ -31,13 +20,12 @@
 
 ## 🌍 Open-Source Projects
 
-### iOS
 - [Cyclo 🚲](https://github.com/theosementa/Cyclo)
 - [EcoTime ⏳](https://github.com/theosementa/EcoTime)
 - [EventsReminder 📆](https://github.com/theosementa/EventsReminder)
 - [Tyradex 🦕](https://github.com/theosementa/Tyradex)
 
-### Framework
+## Swift Packges
 
 #### NavigationKit [[link]](https://github.com/theosementa/NavigationKit)
 - A Swift package that centralizes navigation in SwiftUI applications using a flexible and type-safe router
@@ -47,6 +35,9 @@
 
 #### KeychainKit [[link]](https://github.com/theosementa/KeychainKit)
 - A Swift package that simplifies secure data storage using the Keychain
+
+#### ToastBannerKit [[link]](https://github.com/theosementa/ToastBannerKit)
+- A Swift package for easily displaying toast banners in SwiftUI
 
 #### NotificationKit [[link]](https://github.com/theosementa/NotificationKit)
 - (not public yet) A Swift package that simplifies scheduling and managing local notifications
