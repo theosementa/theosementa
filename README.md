@@ -18,37 +18,22 @@
 
 <br> 
 
+## 📦 Swift Packages
+
+- [NavigationKit](https://github.com/theosementa/NavigationKit) - A Swift package that centralizes navigation in SwiftUI applications using a flexible and type-safe router
+- [NetworkKit](https://github.com/theosementa/NetworkKit) - A Swift package providing a clean and modern networking layer with async/await support
+- [KeychainKit](https://github.com/theosementa/KeychainKit) - A Swift package that simplifies secure data storage using the Keychain
+- [ToastBannerKit](https://github.com/theosementa/ToastBannerKit) - A Swift package for easily displaying toast banners in SwiftUI
+- [NotificationKit](https://github.com/theosementa/NotificationKit) - (not public yet) A Swift package that simplifies scheduling and managing local notifications
+- [AlertKit](https://github.com/theosementa/AlertKit) - (not public yet) A Swift package that centralizes and simplifies presenting alerts in SwiftUI
+- [TyradexKit](https://github.com/theosementa/TyradexKit) - (not maintained - old) A Swift package to use Tyradex API
+
 ## 🌍 Open-Source Projects
 
 - [Cyclo 🚲](https://github.com/theosementa/Cyclo)
 - [EcoTime ⏳](https://github.com/theosementa/EcoTime)
 - [EventsReminder 📆](https://github.com/theosementa/EventsReminder)
 - [Tyradex 🦕](https://github.com/theosementa/Tyradex)
-
-## Swift Packges
-
-#### NavigationKit [[link]](https://github.com/theosementa/NavigationKit)
-- A Swift package that centralizes navigation in SwiftUI applications using a flexible and type-safe router
-
-#### NetworkKit [[link]](https://github.com/theosementa/NetworkKit)
-- A Swift package providing a clean and modern networking layer with async/await support
-
-#### KeychainKit [[link]](https://github.com/theosementa/KeychainKit)
-- A Swift package that simplifies secure data storage using the Keychain
-
-#### ToastBannerKit [[link]](https://github.com/theosementa/ToastBannerKit)
-- A Swift package for easily displaying toast banners in SwiftUI
-
-#### NotificationKit [[link]](https://github.com/theosementa/NotificationKit)
-- (not public yet) A Swift package that simplifies scheduling and managing local notifications
-
-#### AlertKit [[link]](https://github.com/theosementa/AlertKit)
-- (not public yet) A Swift package that centralizes and simplifies presenting alerts in SwiftUI
-
-#### TyradexKit [[link]](https://github.com/theosementa/TyradexKit)
-- (not maintained - old) A Swift package to use Tyradex API
-
-<br> 
 
 ## 👤 Connect with me
 
@@ -61,9 +46,6 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
  
- <a href="https://stackoverflow.com/users/19014464/kaayzenn">
-  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
- </a>
 </div>
 
 <br> 
