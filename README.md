@@ -24,6 +24,9 @@
 
 - [Cyclo 🚲](https://github.com/theosementa/Cyclo) - POC using HealthKit to calculate data on cyclism
 - [EcoTime ⏳](https://github.com/theosementa/EcoTime) - POC to discover screen time API
+- [Daily Activities 👾](https://github.com/theosementa/DailyActivities-swift) - POC using Live Activities and Dynamic Island
+- [Preview Link 🔗](https://github.com/theosementa/POC-PreviewLink) - POC to discord how to display preview from a link, for a futur project
+- [Github Chart 📊](https://github.com/theosementa/POC_GithubChart) - POC to reproduce Github charts in SwiftUI, maybe for a futur project
 
 <br> 
 
