@@ -1,20 +1,11 @@
 ![Github TheoBanner](https://github.com/user-attachments/assets/8f157d34-74cb-42a1-8db8-94ed6a89b6b2)
 
+<br> 
+
 ## 🏗️ Personal Projects
 
-<div>
- <a href="https://apps.apple.com/gb/app/split-sharing-expenses/id6504157641">
-    <img src="https://github.com/user-attachments/assets/a2b33788-1b2a-4b5b-bef6-7952964d9cde" width="32%"/>
-  </a>
- &nbsp;&nbsp;
-  <a href="https://apps.apple.com/gb/app/cashflow-expense-tracker/id6450913423?platform=iphone">
-    <img src="https://github.com/user-attachments/assets/f0629b8a-68fa-4c0d-a678-592eba14b8d5" width="32%"/>
-  </a>
- &nbsp;&nbsp;
-  <a href="https://apps.apple.com/us/app/evently-event-organizer/id6741711828?platform=iphone">
-    <img src="https://github.com/user-attachments/assets/d29ee8df-823d-4c31-aa62-1409e2438f31" width="32%" />
-  </a>
-</div>
+- [Modulo 🏦](https://github.com/theosementa/modulo-ios) - A clean, focused savings tracker for iOS
+- [Pixely 📸](https://github.com/theosementa/Pixely-swift) - iOS app for managing photos, creating albums to organize your photos 
 
 <br> 
 
@@ -26,14 +17,22 @@
 - [ToastBannerKit](https://github.com/theosementa/ToastBannerKit) - A Swift package for easily displaying toast banners in SwiftUI
 - [NotificationKit](https://github.com/theosementa/NotificationKit) - (not public yet) A Swift package that simplifies scheduling and managing local notifications
 - [AlertKit](https://github.com/theosementa/AlertKit) - (not public yet) A Swift package that centralizes and simplifies presenting alerts in SwiftUI
-- [TyradexKit](https://github.com/theosementa/TyradexKit) - (not maintained - old) A Swift package to use Tyradex API
 
-## 🌍 Open-Source Projects
+<br> 
 
-- [Cyclo 🚲](https://github.com/theosementa/Cyclo)
-- [EcoTime ⏳](https://github.com/theosementa/EcoTime)
-- [EventsReminder 📆](https://github.com/theosementa/EventsReminder)
-- [Tyradex 🦕](https://github.com/theosementa/Tyradex)
+## 🌍 Proof of concept
+
+- [Cyclo 🚲](https://github.com/theosementa/Cyclo) - POC using HealthKit to calculate data on cyclism
+- [EcoTime ⏳](https://github.com/theosementa/EcoTime) - POC to discover screen time API
+
+<br> 
+
+## 👴 Old projetcs
+
+- [CashFlow 💰](https://github.com/Lazyy-Inc/CashFlow-swift) - iOS app for tracking your expenses - Published on the [AppStore](https://apps.apple.com/gb/app/cashflow-expense-tracker/id6450913423?platform=iphone)
+- Split 💸 - iOS app for divide expenses between friend - Published on the [AppStore](https://apps.apple.com/gb/app/split-sharing-expenses/id6504157641)
+
+<br> 
 
 ## 👤 Connect with me
 
@@ -47,8 +46,6 @@
  </a>
  
 </div>
-
-<br> 
 
 <!--
 ## 📈 Statistics
