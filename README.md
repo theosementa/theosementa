@@ -30,7 +30,7 @@
 
 <br> 
 
-## 👴 Old projetcs
+## 👴 Old projects
 
 - [CashFlow 💰](https://github.com/Lazyy-Inc/CashFlow-swift) - iOS app for tracking your expenses - Published on the [AppStore](https://apps.apple.com/gb/app/cashflow-expense-tracker/id6450913423?platform=iphone)
 - Split 💸 - iOS app for divide expenses between friend - Published on the [AppStore](https://apps.apple.com/gb/app/split-sharing-expenses/id6504157641)
