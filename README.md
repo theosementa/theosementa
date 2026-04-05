@@ -22,6 +22,7 @@
 
 ## 🌍 Proof of concept
 
+- [MLX LLM 🤖](https://github.com/theosementa/POC_MLX_LLM) - POC to run LLMs entirely on-device, with no internet connection required
 - [Cyclo 🚲](https://github.com/theosementa/Cyclo) - POC using HealthKit to calculate data on cyclism
 - [EcoTime ⏳](https://github.com/theosementa/EcoTime) - POC to discover screen time API
 - [Daily Activities 👾](https://github.com/theosementa/DailyActivities-swift) - POC using Live Activities and Dynamic Island
