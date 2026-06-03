@@ -11,7 +11,7 @@
 
 ## 📦 Swift Packages
 
-- [NavigationKit](https://github.com/theosementa/NavigationKit) - A Swift package that centralizes navigation in SwiftUI applications using a flexible and type-safe router
+- [PharosNav](https://github.com/neopixl/PharosNav-ios) - A Swift package that centralizes navigation in SwiftUI applications using a flexible and type-safe router
 - [NetworkKit](https://github.com/theosementa/NetworkKit) - A Swift package providing a clean and modern networking layer with async/await support
 - [KeychainKit](https://github.com/theosementa/KeychainKit) - A Swift package that simplifies secure data storage using the Keychain
 - [ToastBannerKit](https://github.com/theosementa/ToastBannerKit) - A Swift package for easily displaying toast banners in SwiftUI
