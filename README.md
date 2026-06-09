@@ -32,7 +32,7 @@ I build modular Swift ecosystems, AI-powered apps, and developer tooling.
 
 - Built and shipped **Baloise LU** (insurance) and **FrenchBee** (airline) iOS apps, serving thousands of users in production
 - Designed and developed **CineKlee**, an AI-powered iOS app integrating LLM-based workflows
-- Architected a **modular Swift package ecosystem** enabling code reuse across multiple apps (Navigation, Network, Keychain, Feature Flags, DI Container…)
+- Architected a **modular Swift package ecosystem** enabling code reuse across multiple apps (Navigation, Network, Keychain, Notifications …)
 - Built **AI automation workflows** for internal tooling, leveraging LLM APIs and MCP servers to reduce manual overhead
 - Contributed to microservices integrations and backend communication layers
 
