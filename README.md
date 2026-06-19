@@ -4,7 +4,7 @@ Software Engineer specializing in **iOS & AI**, based in Luxembourg 🇱🇺
 Currently pursuing a **Master's in Software Architecture** @ Metz Numeric School.  
 I build modular Swift ecosystems, AI-powered apps, and developer tooling.
 
-📄 **[View my full CV →](./CV.md)**
+📄 **[View my full CV →](https://theosementa.github.io/cv/)**
 
 <br>
 
