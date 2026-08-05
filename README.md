@@ -46,10 +46,7 @@ One API, one question, one repo. Scoped down to the thing being tested.
 | --- | --- |
 | [MLX LLM](https://github.com/theosementa/POC_MLX_LLM) | LLMs running fully on-device, no network |
 | [Cyclo](https://github.com/theosementa/Cyclo) | HealthKit data for cycling analytics |
-| [EcoTime](https://github.com/theosementa/EcoTime) | Screen Time API |
 | [Daily Activities](https://github.com/theosementa/DailyActivities-swift) | Live Activities & Dynamic Island |
-| [Preview Link](https://github.com/theosementa/POC-PreviewLink) | Link preview rendering |
-| [GitHub Chart](https://github.com/theosementa/POC_GithubChart) | GitHub-style charts in SwiftUI |
 
 ### Shipped
 
