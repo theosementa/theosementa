@@ -8,11 +8,7 @@ Currently a Master's in Software Architecture @ Metz Numeric School.
 
 <br>
 
----
-
-<br>
-
-### Stack
+## Stack
 
 What I reach for by default.
 
@@ -20,11 +16,7 @@ What I reach for by default.
 
 <br>
 
----
-
-<br>
-
-### Swift packages
+## Swift packages
 
 The pieces I got tired of rewriting. Extracted, documented, reused across every app below.
 
@@ -39,7 +31,7 @@ The pieces I got tired of rewriting. Extracted, documented, reused across every 
 
 <br>
 
-### Projects
+## Projects
 
 Apps I actively build and use myself.
 
@@ -50,7 +42,7 @@ Apps I actively build and use myself.
 
 <br>
 
-### Proof of concept
+## Proof of concept
 
 One API, one question, one repo. Scoped down to the thing being tested.
 
@@ -62,7 +54,7 @@ One API, one question, one repo. Scoped down to the thing being tested.
 
 <br>
 
-### Shipped
+## Shipped
 
 Published on the App Store, then left alone. Kept here because shipping counts.
 
@@ -73,11 +65,7 @@ Published on the App Store, then left alone. Kept here because shipping counts.
 
 <br>
 
----
-
-<br>
-
-### Elsewhere
+## Elsewhere
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CF2C2F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theosementa)
 [![X](https://img.shields.io/badge/X-CF2C2F?style=flat-square&logo=x&logoColor=white)](https://x.com/theosementa)
