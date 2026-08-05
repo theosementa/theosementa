@@ -1,23 +1,24 @@
 # Théo Sementa
 
-Software engineer — iOS & AI. Based in Luxembourg.
-Building modular Swift ecosystems, AI-powered apps, and developer tooling.
+Software engineer — iOS & AI. Based in Luxembourg.  
+Building modular Swift ecosystems, AI-powered apps, and developer tooling.  
+Currently a Master's in Software Architecture @ Metz Numeric School.
 
-**Discipline over motivation.**
+> **Discipline over motivation.**
 
 ---
 
-### Now
-
-Master's in Software Architecture @ Metz Numeric School.
-
 ### Stack
+
+What I reach for by default.
 
 `Swift` `SwiftUI` `Xcode` `TypeScript` `NestJS` `Docker` `Git` `Claude Code` `Ollama` `MLX`
 
 ---
 
 ### Swift packages
+
+The pieces I got tired of rewriting. Extracted, documented, reused across every app below.
 
 | Package | What it does |
 | --- | --- |
@@ -30,12 +31,16 @@ Master's in Software Architecture @ Metz Numeric School.
 
 ### Projects
 
+Apps I actively build and use myself.
+
 | Project | What it is |
 | --- | --- |
 | [Modulo](https://github.com/theosementa/modulo-ios) | Savings tracker for iOS |
 | [Pixely](https://github.com/theosementa/Pixely-swift) | Photo management with album organization |
 
 ### Proof of concept
+
+One API, one question, one repo. Scoped down to the thing being tested.
 
 | POC | Explores |
 | --- | --- |
@@ -48,7 +53,7 @@ Master's in Software Architecture @ Metz Numeric School.
 
 ### Shipped
 
-Published on the App Store. No longer maintained.
+Published on the App Store, then left alone. Kept here because shipping counts.
 
 | App | | |
 | --- | --- | --- |
