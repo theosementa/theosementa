@@ -1,3 +1,5 @@
+![](assets/banner.jpg)
+
 # Théo Sementa
 
 Software engineer — iOS & AI. Based in Luxembourg.  
