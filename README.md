@@ -2,13 +2,15 @@
 
 # Théo Sementa
 
-Software engineer — iOS & AI. Based in Luxembourg.  
+Software engineer. Based in Luxembourg.  
 Building modular Swift ecosystems, AI-powered apps, and developer tooling.  
 Currently a Master's in Software Architecture @ Metz Numeric School.
 
-> **Discipline over motivation.**
+<br>
 
 ---
+
+<br>
 
 ### Stack
 
@@ -16,7 +18,11 @@ What I reach for by default.
 
 `Swift` `SwiftUI` `Xcode` `TypeScript` `NestJS` `Docker` `Git` `Claude Code` `Ollama` `MLX`
 
+<br>
+
 ---
+
+<br>
 
 ### Swift packages
 
@@ -31,6 +37,8 @@ The pieces I got tired of rewriting. Extracted, documented, reused across every 
 | NotificationKit | Local notification scheduling — *not public yet* |
 | AlertKit | Centralized alert presentation — *not public yet* |
 
+<br>
+
 ### Projects
 
 Apps I actively build and use myself.
@@ -39,6 +47,8 @@ Apps I actively build and use myself.
 | --- | --- |
 | [Modulo](https://github.com/theosementa/modulo-ios) | Savings tracker for iOS |
 | [Pixely](https://github.com/theosementa/Pixely-swift) | Photo management with album organization |
+
+<br>
 
 ### Proof of concept
 
@@ -50,6 +60,8 @@ One API, one question, one repo. Scoped down to the thing being tested.
 | [Cyclo](https://github.com/theosementa/Cyclo) | HealthKit data for cycling analytics |
 | [Daily Activities](https://github.com/theosementa/DailyActivities-swift) | Live Activities & Dynamic Island |
 
+<br>
+
 ### Shipped
 
 Published on the App Store, then left alone. Kept here because shipping counts.
@@ -59,7 +71,11 @@ Published on the App Store, then left alone. Kept here because shipping counts.
 | CashFlow | Expense tracker | [App Store](https://apps.apple.com/gb/app/cashflow-expense-tracker/id6450913423) · [Source](https://github.com/Lazyy-Inc/CashFlow-swift) |
 | Split | Shared expense splitter | [App Store](https://apps.apple.com/gb/app/split-sharing-expenses/id6504157641) |
 
+<br>
+
 ---
+
+<br>
 
 ### Elsewhere
 
